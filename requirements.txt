@@ -13,7 +13,7 @@ cmdtest==0.32
 configparser==3.5.0
 configstore==0.5
 cryptography==2.1.4
-Django==1.11.20
+Django==1.11.23
 dotenv==0.0.5
 duplicity==0.7.17
 enum34==1.1.6
