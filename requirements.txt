@@ -51,7 +51,7 @@ pycparser==2.19
 pycrypto==2.6.1
 Pygments==2.2.0
 pygobject==3.26.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==1.9.4
 pyperclip==1.7.0
 pytest==3.3.2
